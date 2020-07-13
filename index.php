@@ -13,7 +13,7 @@
 </head>
 <body>
   
-
+<h1> this a test of sincronixacion con got hub</h1>
   
 
 	 <script src="js/jquery-3.4.1.min.js"></script>
