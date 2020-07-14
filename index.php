@@ -1,3 +1,10 @@
+<?php 
+if (isset($_COOKIE['pais'])) {
+	$pais = $_COOKIE["pais"];
+	header("Location: inicio-".$pais.".php");
+} 
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +28,7 @@
   </div>
 	  
   </div>
-	<h1> This a test of sincronixacion con Git Hub</h1>
+	
   
 
 	 <script src="js/jquery-3.4.1.min.js"></script>
