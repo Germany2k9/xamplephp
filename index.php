@@ -13,7 +13,7 @@
 </head>
 <body>
   <div class="container">
-  <h2 class="text-center">Desde donde nos visitas</h2>
+  <h2 class="text-center">Desde donde nos visitas?</h2>
   <div class="row">
 	  <div class="col-4 text-center"><a href="crear-cookie.php?pais=es"><img src="img/flag-es.svg" width="100" /></a></div>
 	  <div class="col-4 text-center"><a href="crear-cookie.php?pais=fr"><img src="img/flag-fr.svg" width="100" /></a></div>
