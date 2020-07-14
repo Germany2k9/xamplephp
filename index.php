@@ -12,8 +12,16 @@
 	<title>Document</title>
 </head>
 <body>
-  
-<h1> This a test of sincronixacion con Git Hub</h1>
+  <div class="container">
+  <h2 class="text-center">Desde donde nos visitas</h2>
+  <div class="row">
+	  <div class="col-4 text-center"><a href="crear-cookie.php?pais=es"><img src="img/flag-es.svg" width="100" /></a></div>
+	  <div class="col-4 text-center"><a href="crear-cookie.php?pais=fr"><img src="img/flag-fr.svg" width="100" /></a></div>
+	  <div class="col-4 text-center"><a href="crear-cookie.php?pais=du"><img src="img/flag-du.svg" width="100" /></a></div>
+  </div>
+	  
+  </div>
+	<h1> This a test of sincronixacion con Git Hub</h1>
   
 
 	 <script src="js/jquery-3.4.1.min.js"></script>
