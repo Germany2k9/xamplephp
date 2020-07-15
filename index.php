@@ -26,7 +26,8 @@ if (isset($_COOKIE['pais'])) {
 	  <div class="col-4 text-center"><a href="crear-cookie.php?pais=fr"><img src="img/flag-fr.svg" width="100" /></a></div>
 	  <div class="col-4 text-center"><a href="crear-cookie.php?pais=du"><img src="img/flag-du.svg" width="100" /></a></div>
   </div>
-	  
+
+	  <h2 class="text-center">This is a test</h2>
   </div>
 	
   
